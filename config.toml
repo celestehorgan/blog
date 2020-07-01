@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.blog.celestehorgan.com"
+baseurl = ""
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
 themesDir = "themes"
@@ -7,14 +7,14 @@ theme = "hugo-cactus-theme"
 # Enter your tracking code to enable Google Analytics
 googleAnalytics = ""
 # Disable comments by leaving disqusShortname empty
-disqusShortname = "spf13"
+disqusShortname = ""
 
 [params]
-	name = "John Doe"
-	description = "Describe your website"
-	bio = "Blogger & Programmer"
+	name = "Celeste Horgan"
+	description = "Ruminant remenants"
+	bio = "Ruminant remenants"
 	# Enter optionally your twitter account
-	twitter = "Your Twitter account"
+	twitter = "celeste_horgan"
 	enableRSS = true
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
@@ -48,7 +48,5 @@ disqusShortname = "spf13"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    twitter  = "https://www.twitter.com/celeste_horgan"
+    github   = "https://www.github.com/celestehorgan"
