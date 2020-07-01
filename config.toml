@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://www.celestehorgan.com"
+baseurl = "https://www.blog.celestehorgan.com"
 languageCode = "en-us"
 title = "Hugo Cactus Theme"
 themesDir = "themes"
